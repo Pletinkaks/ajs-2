@@ -1,0 +1,23 @@
+{
+  "name": "ajs-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pletinkaks/ajs-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pletinkaks/ajs-2/issues"
+  },
+  "homepage": "https://github.com/Pletinkaks/ajs-2#readme",
+  "dependencies": {
+    "@Pletinkaks/ajs": "^1.0.0"
+  }
+}
